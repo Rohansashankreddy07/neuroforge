@@ -1,0 +1,21 @@
+{
+  "id": "neuroforge",
+  "name": "NEUROFORGE",
+  "subtitle": "Project brief to be added",
+  "category": "Brief pending",
+  "status": "Brief pending",
+  "icon": "neuroforge",
+  "summary": "A named project in my portfolio. Its purpose, architecture, and development progress will be added with the project brief.",
+  "overview": "NEUROFORGE has been added to the project list. A detailed brief is still needed to describe its scope accurately.",
+  "current_state": "The project name is confirmed. Its technical scope and implementation status have not yet been documented in this portfolio.",
+  "highlights": [],
+  "next_focus": "Add the project’s purpose, intended users, current work, and next milestone.",
+  "tags": [
+    "Brief pending"
+  ],
+  "repository_slug": "neuroforge",
+  "repository_url": "https://github.com/Rohansashankreddy07/neuroforge",
+  "sources": [
+    "Project name supplied in conversation"
+  ]
+}
